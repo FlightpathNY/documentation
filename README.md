@@ -1,13 +1,14 @@
-Flightpath Technical Standards
-==============================
+# Flightpath Technical Standards
 
 ## Topics
 
 * General
 * [Accounts and Passwords](Accounts.md)
-* HTML
-* CSS
-* JavaScript
+* Front-end web development
+	* HTML
+	* CSS
+	* JavaScript
+	* Images
 * Source Control
 * [Documentation](Documetation.md)
 * Database

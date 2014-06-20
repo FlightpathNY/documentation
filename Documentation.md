@@ -1,0 +1,4 @@
+## The Client Tech DocAt minimum, the document should contain the following information:
+* Source code repository information* Dev, Staging and Production site information* Server location* URL for site* Master admin accounts* passwords for site access (e.g. staging)* DNS account info* Third party accounts (e.g. TypeKit, ExactTarget, other web services)* Third party components* Other installed applications (scheduled tasks and services)* Location of where app may log files
+## Developer documentation ##
+Developer should include any documentation about how the site or app was built within [Source Control](SourceControl.md) using README.md and other markdown files.  The README.md file should be in the root of the Git repo (so GitHub will display it on the main page of that repo).  Other files should be placed in a `docs` folder.
