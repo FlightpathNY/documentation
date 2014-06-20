@@ -1,5 +1,9 @@
 # Flightpath Technical Standards
 
+## Overview
+
+The purpose of this documentation is to provide standards for technical development.
+
 ## Topics
 
 * General
@@ -9,8 +13,9 @@
 	* CSS
 	* JavaScript
 	* Images
-* Source Control
-* [Documentation](Documetation.md)
+* Back-end web development
+* [Source Control](SourceControl.md)
+* [Documentation](Documentation.md)
 * Database
 * Content Mangement Systems
 	* [Umbraco](Umbraco.md)

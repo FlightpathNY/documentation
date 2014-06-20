@@ -1,0 +1,1 @@
+While we use a variety of Source Control Management Systems, our preferred system is now Git.  All new projects shoudl use Git unless there is some other project requirement to use another system. 
